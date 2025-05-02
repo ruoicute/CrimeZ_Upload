@@ -1,0 +1,23 @@
+name: Lowercase Vehicle Files
+on:
+  push:
+    branches: [ main ]
+jobs:
+  lowercase-files:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Convert vehicle filenames to lowercase
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          changes=false
+          for file in $(git ls-files "vehicles/" | grep "[A-Z]"); do
+            lc_file=$(echo "$file" | tr '[:upper:]' '[:lower:]')
+            git mv "$file" "$lc_file"
+            changes=true
+          done
+          if [ "$changes" = true ]; then
+            git commit -m "Convert vehicle filenames to lowercase"
+            git push
+          fi
