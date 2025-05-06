@@ -25,7 +25,7 @@ function generateEmoteConfig() {
       const relativePath = `emotes/img/${file}`;
       
       // Add to config
-      config[fileName] = {
+      config[fileName.toLowerCase()] = {
         "image": relativePath
       };
     }
