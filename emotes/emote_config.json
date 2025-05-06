@@ -1,6 +1,819 @@
 {
+  "ezpepe": {
+    "image": "emotes/img/EzPepe.png"
+  },
+  "kannasip": {
+    "image": "emotes/img/KannaSip.png"
+  },
+  "pepeclap": {
+    "image": "emotes/img/PepeClap.gif"
+  },
+  "pepedoor": {
+    "image": "emotes/img/PepeDoor.gif"
+  },
+  "pepehands": {
+    "image": "emotes/img/PepeHands.png"
+  },
+  "pepepoogersfast": {
+    "image": "emotes/img/PepePOOGERSFAST.gif"
+  },
+  "pepe_hype": {
+    "image": "emotes/img/Pepe_Hype.gif"
+  },
+  "puffle": {
+    "image": "emotes/img/Puffle.png"
+  },
+  "shinybrownpuffle": {
+    "image": "emotes/img/ShinyBrownPuffle.png"
+  },
+  "wokepepe": {
+    "image": "emotes/img/WokePepe.png"
+  },
+  "angry-cat": {
+    "image": "emotes/img/angry-cat.gif"
+  },
+  "angrypaimon": {
+    "image": "emotes/img/angrypaimon.gif"
+  },
+  "animatecat": {
+    "image": "emotes/img/animatecat.gif"
+  },
+  "anime-shut-up": {
+    "image": "emotes/img/anime-shut-up.png"
+  },
+  "artemis-love": {
+    "image": "emotes/img/artemis-love.png"
+  },
+  "bankai": {
+    "image": "emotes/img/bankai.gif"
+  },
+  "beach-hello-kitty": {
+    "image": "emotes/img/beach-hello-kitty.png"
+  },
+  "bearbounce": {
+    "image": "emotes/img/bearbounce.gif"
+  },
+  "bearheart": {
+    "image": "emotes/img/bearheart.gif"
+  },
+  "bearsquish": {
+    "image": "emotes/img/bearsquish.gif"
+  },
+  "bingus-shush": {
+    "image": "emotes/img/bingus-shush.gif"
+  },
+  "blackjoker": {
+    "image": "emotes/img/blackjoker.png"
+  },
+  "bongocatbutt": {
+    "image": "emotes/img/bongocatbutt.gif"
+  },
+  "boohoo": {
+    "image": "emotes/img/boohoo.png"
+  },
+  "bouncycat": {
+    "image": "emotes/img/bouncycat.gif"
+  },
   "brown-checkmark": {
     "image": "emotes/img/brown-checkmark.gif"
+  },
+  "bubpanda-toilet": {
+    "image": "emotes/img/bubpanda-toilet.gif"
+  },
+  "bubu-and-dudu-drink-glass": {
+    "image": "emotes/img/bubu-and-dudu-drink-glass.gif"
+  },
+  "bubu-lol": {
+    "image": "emotes/img/bubu-lol.gif"
+  },
+  "bubu-peek": {
+    "image": "emotes/img/bubu-peek.png"
+  },
+  "bubu": {
+    "image": "emotes/img/bubu.gif"
+  },
+  "bubududu-ignore": {
+    "image": "emotes/img/bubududu-ignore.gif"
+  },
+  "bubududu-kiss": {
+    "image": "emotes/img/bubududu-kiss.gif"
+  },
+  "bubuicecream": {
+    "image": "emotes/img/bubuicecream.png"
+  },
+  "bubupanda-secret": {
+    "image": "emotes/img/bubupanda-secret.gif"
+  },
+  "bubuwinterhopyellow": {
+    "image": "emotes/img/bubuwinterhopyellow.gif"
+  },
+  "bunnyheart": {
+    "image": "emotes/img/bunnyheart.gif"
+  },
+  "cat-jump": {
+    "image": "emotes/img/cat-jump.gif"
+  },
+  "cat-kiss": {
+    "image": "emotes/img/cat-kiss.gif"
+  },
+  "cat-laughing": {
+    "image": "emotes/img/cat-laughing.png"
+  },
+  "cat-rage": {
+    "image": "emotes/img/cat-rage.gif"
+  },
+  "cat-sleep": {
+    "image": "emotes/img/cat-sleep.png"
+  },
+  "cat-sus": {
+    "image": "emotes/img/cat-sus.png"
+  },
+  "cat-what": {
+    "image": "emotes/img/cat-what.png"
+  },
+  "catjam": {
+    "image": "emotes/img/catJAM.gif"
+  },
+  "catbelly": {
+    "image": "emotes/img/catbelly.gif"
+  },
+  "catcatcat": {
+    "image": "emotes/img/catcatcat.png"
+  },
+  "catfunny": {
+    "image": "emotes/img/catfunny.gif"
+  },
+  "catgat": {
+    "image": "emotes/img/catgat.gif"
+  },
+  "catgirl-cozy": {
+    "image": "emotes/img/catgirl-cozy.png"
+  },
+  "catno": {
+    "image": "emotes/img/catno.gif"
+  },
+  "catnom": {
+    "image": "emotes/img/catnom.gif"
+  },
+  "catsit": {
+    "image": "emotes/img/catsit.png"
+  },
+  "catsmile": {
+    "image": "emotes/img/catsmile.png"
+  },
+  "catsneeze": {
+    "image": "emotes/img/catsneeze.png"
+  },
+  "catsnug": {
+    "image": "emotes/img/catsnug.png"
+  },
+  "catstand": {
+    "image": "emotes/img/catstand.png"
+  },
+  "catstare": {
+    "image": "emotes/img/catstare.png"
+  },
+  "catwow": {
+    "image": "emotes/img/catwow.png"
+  },
+  "chatrevive": {
+    "image": "emotes/img/chatrevive.png"
+  },
+  "chibi-hutao-love": {
+    "image": "emotes/img/chibi-hutao-love.png"
+  },
+  "chibi-paimon-hesitating": {
+    "image": "emotes/img/chibi-paimon-hesitating.png"
+  },
+  "chibi-paimon-think": {
+    "image": "emotes/img/chibi-paimon-think.png"
+  },
+  "chips-cat": {
+    "image": "emotes/img/chips-cat.gif"
+  },
+  "christmaspandawink": {
+    "image": "emotes/img/christmaspandawink.gif"
+  },
+  "cleaning-bubupanda": {
+    "image": "emotes/img/cleaning-bubupanda.gif"
+  },
+  "clownge": {
+    "image": "emotes/img/clownge.png"
+  },
+  "club-penguin-vanish": {
+    "image": "emotes/img/club-penguin-vanish.gif"
+  },
+  "club-penguin": {
+    "image": "emotes/img/club-penguin.gif"
+  },
+  "clubpenguinmop": {
+    "image": "emotes/img/clubpenguinmop.gif"
+  },
+  "cod-bruh": {
+    "image": "emotes/img/cod-bruh.gif"
+  },
+  "cool": {
+    "image": "emotes/img/cool.png"
+  },
+  "copium": {
+    "image": "emotes/img/copium.png"
+  },
+  "crisiscat": {
+    "image": "emotes/img/crisiscat.gif"
+  },
+  "cry": {
+    "image": "emotes/img/cry.gif"
+  },
+  "crycat": {
+    "image": "emotes/img/crycat.gif"
+  },
+  "cryingpepe": {
+    "image": "emotes/img/cryingpepe.png"
+  },
+  "crythumbsup": {
+    "image": "emotes/img/crythumbsup.png"
+  },
+  "cryypepe": {
+    "image": "emotes/img/cryypepe.png"
+  },
+  "cutecatstare": {
+    "image": "emotes/img/cutecatstare.png"
+  },
+  "dabi-fuck-you": {
+    "image": "emotes/img/dabi-fuck-you.png"
+  },
+  "death": {
+    "image": "emotes/img/death.png"
+  },
+  "events": {
+    "image": "emotes/img/events.png"
+  },
+  "f-u-hello-kitty": {
+    "image": "emotes/img/f-u-hello-kitty.png"
+  },
+  "flustered-girl": {
+    "image": "emotes/img/flustered-girl.png"
+  },
+  "frog3": {
+    "image": "emotes/img/frog3.gif"
+  },
+  "frostywolf": {
+    "image": "emotes/img/frostywolf.png"
+  },
+  "furina": {
+    "image": "emotes/img/furina.png"
+  },
+  "gawrgurawavebackgroundless": {
+    "image": "emotes/img/gawrgurawavebackgroundless.png"
+  },
+  "gigachad": {
+    "image": "emotes/img/gigachad.png"
+  },
+  "gintoki-shock": {
+    "image": "emotes/img/gintoki-shock.png"
+  },
+  "giveaways": {
+    "image": "emotes/img/giveaways.png"
+  },
+  "gladgers": {
+    "image": "emotes/img/gladgers.png"
+  },
+  "greetings-konata": {
+    "image": "emotes/img/greetings-konata.png"
+  },
+  "guhgif": {
+    "image": "emotes/img/guhgif.gif"
+  },
+  "gun": {
+    "image": "emotes/img/gun.gif"
+  },
+  "happy-pepe": {
+    "image": "emotes/img/happy-pepe.png"
+  },
+  "happy": {
+    "image": "emotes/img/happy.gif"
+  },
+  "hastunemiku": {
+    "image": "emotes/img/hastunemiku.png"
+  },
+  "hatsune": {
+    "image": "emotes/img/hatsune.gif"
+  },
+  "heartcat": {
+    "image": "emotes/img/heartcat.gif"
+  },
+  "hearteye": {
+    "image": "emotes/img/hearteye.gif"
+  },
+  "hehepepe": {
+    "image": "emotes/img/hehepepe.gif"
+  },
+  "hello-kitty-angel": {
+    "image": "emotes/img/hello-kitty-angel.png"
+  },
+  "hello-kitty-computer": {
+    "image": "emotes/img/hello-kitty-computer.png"
+  },
+  "hello-kitty-love": {
+    "image": "emotes/img/hello-kitty-love.gif"
+  },
+  "hello-kitty-reading": {
+    "image": "emotes/img/hello-kitty-reading.png"
+  },
+  "hello": {
+    "image": "emotes/img/hello.png"
+  },
+  "hellokittydance": {
+    "image": "emotes/img/hellokittydance.gif"
+  },
+  "hellokittywithrose": {
+    "image": "emotes/img/hellokittywithrose.png"
+  },
+  "hellokittyyes": {
+    "image": "emotes/img/hellokittyyes.gif"
+  },
+  "hellokittyz": {
+    "image": "emotes/img/hellokittyz.png"
+  },
+  "herta-kurukuru": {
+    "image": "emotes/img/herta-kurukuru.gif"
+  },
+  "hmm": {
+    "image": "emotes/img/hmm.png"
+  },
+  "hsr-robin-cute2": {
+    "image": "emotes/img/hsr-robin-cute2.png"
+  },
+  "huh": {
+    "image": "emotes/img/huh.png"
+  },
+  "huhcat": {
+    "image": "emotes/img/huhcat.png"
+  },
+  "ichigo-mad": {
+    "image": "emotes/img/ichigo-mad.png"
+  },
+  "jigglin": {
+    "image": "emotes/img/jigglin.gif"
+  },
+  "kaiser": {
+    "image": "emotes/img/kaiser.png"
+  },
+  "kekwlaugh": {
+    "image": "emotes/img/kekwlaugh.gif"
+  },
+  "kitty-angry": {
+    "image": "emotes/img/kitty-angry.png"
+  },
+  "kitty-happy": {
+    "image": "emotes/img/kitty-happy.png"
+  },
+  "kitty-lick": {
+    "image": "emotes/img/kitty-lick.gif"
+  },
+  "kitty-sad": {
+    "image": "emotes/img/kitty-sad.png"
+  },
+  "kittyyuh": {
+    "image": "emotes/img/kittyyuh.gif"
+  },
+  "konatacry": {
+    "image": "emotes/img/konatacry.png"
+  },
+  "konatahype": {
+    "image": "emotes/img/konatahype.gif"
+  },
+  "konatasmugdark": {
+    "image": "emotes/img/konatasmugdark.png"
+  },
+  "kuromibawling": {
+    "image": "emotes/img/kuromibawling.gif"
+  },
+  "kuromicleaning": {
+    "image": "emotes/img/kuromicleaning.gif"
+  },
+  "kuromiflee": {
+    "image": "emotes/img/kuromiflee.gif"
+  },
+  "kuromihuh": {
+    "image": "emotes/img/kuromihuh.gif"
+  },
+  "kuromimymelodyexcited": {
+    "image": "emotes/img/kuromimymelodyexcited.gif"
+  },
+  "kurominod": {
+    "image": "emotes/img/kurominod.gif"
+  },
+  "kuromishock": {
+    "image": "emotes/img/kuromishock.gif"
+  },
+  "kyoko-thumbsup": {
+    "image": "emotes/img/kyoko-thumbsup.gif"
+  },
+  "laugh": {
+    "image": "emotes/img/laugh.png"
+  },
+  "laughing-cat": {
+    "image": "emotes/img/laughing-cat.gif"
+  },
+  "laughpepe": {
+    "image": "emotes/img/laughpepe.png"
+  },
+  "laugingpepe": {
+    "image": "emotes/img/laugingpepe.png"
+  },
+  "lil_swag": {
+    "image": "emotes/img/lil_swag.gif"
+  },
+  "listening": {
+    "image": "emotes/img/listening.png"
+  },
+  "luffy": {
+    "image": "emotes/img/luffy.gif"
+  },
+  "luna-angry": {
+    "image": "emotes/img/luna-angry.png"
+  },
+  "luna-crying": {
+    "image": "emotes/img/luna-crying.png"
+  },
+  "luna-curious": {
+    "image": "emotes/img/luna-curious.png"
+  },
+  "luna-drinking": {
+    "image": "emotes/img/luna-drinking.png"
+  },
+  "luna-eating": {
+    "image": "emotes/img/luna-eating.png"
+  },
+  "luna-hype": {
+    "image": "emotes/img/luna-hype.png"
+  },
+  "luna-praying": {
+    "image": "emotes/img/luna-praying.png"
+  },
+  "luna-thinking": {
+    "image": "emotes/img/luna-thinking.png"
+  },
+  "luna-tired": {
+    "image": "emotes/img/luna-tired.png"
+  },
+  "minecraftpepe": {
+    "image": "emotes/img/minecraftpepe.png"
+  },
+  "mizuki1": {
+    "image": "emotes/img/mizuki1.png"
+  },
+  "mlem": {
+    "image": "emotes/img/mlem.png"
+  },
+  "monkas": {
+    "image": "emotes/img/monkaS.png"
+  },
+  "monkasteer": {
+    "image": "emotes/img/monkaSTEER.gif"
+  },
+  "musicping": {
+    "image": "emotes/img/musicping.png"
+  },
+  "mymelodyyes": {
+    "image": "emotes/img/mymelodyyes.gif"
+  },
+  "naruto-preparedtofight": {
+    "image": "emotes/img/naruto-preparedtofight.png"
+  },
+  "naruto-shy": {
+    "image": "emotes/img/naruto-shy.png"
+  },
+  "nowaying": {
+    "image": "emotes/img/nowaying.gif"
+  },
+  "num-five": {
+    "image": "emotes/img/num-five.png"
+  },
+  "num-four": {
+    "image": "emotes/img/num-four.png"
+  },
+  "num-one": {
+    "image": "emotes/img/num-one.png"
+  },
+  "num-six": {
+    "image": "emotes/img/num-six.png"
+  },
+  "num-three": {
+    "image": "emotes/img/num-three.png"
+  },
+  "num-two": {
+    "image": "emotes/img/num-two.png"
+  },
+  "ome": {
+    "image": "emotes/img/ome.gif"
+  },
+  "pain": {
+    "image": "emotes/img/pain.gif"
+  },
+  "pandasquishy": {
+    "image": "emotes/img/pandasquishy.gif"
+  },
+  "peachgomanuzzle": {
+    "image": "emotes/img/peachgomanuzzle.gif"
+  },
+  "pedrolaughcry": {
+    "image": "emotes/img/pedrolaughcry.gif"
+  },
+  "peepo-ban": {
+    "image": "emotes/img/peepo-ban.png"
+  },
+  "peepo-fuckyou": {
+    "image": "emotes/img/peepo-fuckyou.png"
+  },
+  "peepo-sunglasses": {
+    "image": "emotes/img/peepo-sunglasses.png"
+  },
+  "peepo-wave": {
+    "image": "emotes/img/peepo-wave.png"
+  },
+  "peepoangy": {
+    "image": "emotes/img/peepoangy.png"
+  },
+  "peepoclap": {
+    "image": "emotes/img/peepoclap.gif"
+  },
+  "peepohappy": {
+    "image": "emotes/img/peepohappy.png"
+  },
+  "peepolost": {
+    "image": "emotes/img/peepolost.png"
+  },
+  "peepolove": {
+    "image": "emotes/img/peepolove.png"
+  },
+  "peeposad": {
+    "image": "emotes/img/peeposad.gif"
+  },
+  "peepowait": {
+    "image": "emotes/img/peepowait.png"
+  },
+  "pengii": {
+    "image": "emotes/img/pengii.gif"
+  },
+  "penguin-clap": {
+    "image": "emotes/img/penguin-clap.gif"
+  },
+  "penguinbreakdance": {
+    "image": "emotes/img/penguinbreakdance.gif"
+  },
+  "pepe-ahaa": {
+    "image": "emotes/img/pepe-ahaa.gif"
+  },
+  "pepe-ateveryoneping": {
+    "image": "emotes/img/pepe-ateveryoneping.gif"
+  },
+  "pepe-cheater": {
+    "image": "emotes/img/pepe-cheater.png"
+  },
+  "pepe-dance": {
+    "image": "emotes/img/pepe-dance.gif"
+  },
+  "pepe-disappear": {
+    "image": "emotes/img/pepe-disappear.gif"
+  },
+  "pepe-hmmm": {
+    "image": "emotes/img/pepe-hmmm.png"
+  },
+  "pepe-pleaseshutup": {
+    "image": "emotes/img/pepe-pleaseshutup.png"
+  },
+  "pepe-pog": {
+    "image": "emotes/img/pepe-pog.png"
+  },
+  "pepe-poooooopoo": {
+    "image": "emotes/img/pepe-poooooopoo.gif"
+  },
+  "pepe-popcorn": {
+    "image": "emotes/img/pepe-popcorn.gif"
+  },
+  "pepe-rage": {
+    "image": "emotes/img/pepe-rage.png"
+  },
+  "pepe-sad": {
+    "image": "emotes/img/pepe-sad.gif"
+  },
+  "pepe-sheep": {
+    "image": "emotes/img/pepe-sheep.gif"
+  },
+  "pepe-smug": {
+    "image": "emotes/img/pepe-smug.png"
+  },
+  "pepe-sob": {
+    "image": "emotes/img/pepe-sob.png"
+  },
+  "pepe-template": {
+    "image": "emotes/img/pepe-template.png"
+  },
+  "pepe-vibin": {
+    "image": "emotes/img/pepe-vibin.gif"
+  },
+  "pepe-with-jesus": {
+    "image": "emotes/img/pepe-with-jesus.png"
+  },
+  "pepe-yes": {
+    "image": "emotes/img/pepe-yes.png"
+  },
+  "pepe1": {
+    "image": "emotes/img/pepe1.gif"
+  },
+  "pepeok": {
+    "image": "emotes/img/pepeOK.png"
+  },
+  "pepe_shy": {
+    "image": "emotes/img/pepe_shy.gif"
+  },
+  "pepeanger": {
+    "image": "emotes/img/pepeanger.png"
+  },
+  "pepeangry": {
+    "image": "emotes/img/pepeangry.png"
+  },
+  "pepearriveleave": {
+    "image": "emotes/img/pepearriveleave.gif"
+  },
+  "pepebunnysad": {
+    "image": "emotes/img/pepebunnysad.png"
+  },
+  "pepeceo": {
+    "image": "emotes/img/pepeceo.png"
+  },
+  "pepeclown": {
+    "image": "emotes/img/pepeclown.png"
+  },
+  "pepecringe": {
+    "image": "emotes/img/pepecringe.png"
+  },
+  "pepecry": {
+    "image": "emotes/img/pepecry.png"
+  },
+  "pepecryyay": {
+    "image": "emotes/img/pepecryyay.png"
+  },
+  "pepedeleted": {
+    "image": "emotes/img/pepedeleted.png"
+  },
+  "pepeeveryone": {
+    "image": "emotes/img/pepeeveryone.png"
+  },
+  "pepehmmmm": {
+    "image": "emotes/img/pepehmmmm.png"
+  },
+  "pepelaugh": {
+    "image": "emotes/img/pepelaugh.png"
+  },
+  "pepeno": {
+    "image": "emotes/img/pepeno.png"
+  },
+  "pepenosign": {
+    "image": "emotes/img/pepenosign.png"
+  },
+  "pepepickle": {
+    "image": "emotes/img/pepepickle.png"
+  },
+  "peperun": {
+    "image": "emotes/img/peperun.gif"
+  },
+  "pepesendnudes": {
+    "image": "emotes/img/pepesendnudes.png"
+  },
+  "pepesmash": {
+    "image": "emotes/img/pepesmash.png"
+  },
+  "pepethumbsup": {
+    "image": "emotes/img/pepethumbsup.png"
+  },
+  "pepeyes": {
+    "image": "emotes/img/pepeyes.png"
+  },
+  "pepoheart": {
+    "image": "emotes/img/pepoheart.png"
+  },
+  "pikachu-minecraft": {
+    "image": "emotes/img/pikachu-minecraft.gif"
+  },
+  "pikachu-stare": {
+    "image": "emotes/img/pikachu-stare.gif"
+  },
+  "poggies-peepo": {
+    "image": "emotes/img/poggies-peepo.png"
+  },
+  "posts": {
+    "image": "emotes/img/posts.png"
+  },
+  "prayge": {
+    "image": "emotes/img/prayge.png"
+  },
+  "puffleupset": {
+    "image": "emotes/img/puffleupset.png"
+  },
+  "puppylickies": {
+    "image": "emotes/img/puppylickies.gif"
+  },
+  "redpuffle": {
+    "image": "emotes/img/redpuffle.png"
+  },
+  "rickroll": {
+    "image": "emotes/img/rickroll.gif"
+  },
+  "robin-hello": {
+    "image": "emotes/img/robin-hello.png"
+  },
+  "robin-peek": {
+    "image": "emotes/img/robin-peek.png"
+  },
+  "robin-sing": {
+    "image": "emotes/img/robin-sing.png"
+  },
+  "sadge-pray": {
+    "image": "emotes/img/sadge-pray.png"
+  },
+  "sadge": {
+    "image": "emotes/img/sadge.png"
+  },
+  "sanji-inlove": {
+    "image": "emotes/img/sanji-inlove.gif"
+  },
+  "sasuke-stare": {
+    "image": "emotes/img/sasuke-stare.gif"
+  },
+  "searchingpepe": {
+    "image": "emotes/img/searchingpepe.png"
+  },
+  "seriously": {
+    "image": "emotes/img/seriously.png"
+  },
+  "shnifffff": {
+    "image": "emotes/img/shnifffff.gif"
+  },
+  "sideeye": {
+    "image": "emotes/img/sideeye.gif"
+  },
+  "sillyguy": {
+    "image": "emotes/img/sillyguy.png"
+  },
+  "simp": {
+    "image": "emotes/img/simp.png"
+  },
+  "sinslayer": {
+    "image": "emotes/img/sinslayer.png"
+  },
+  "sip": {
+    "image": "emotes/img/sip.png"
+  },
+  "sleep-bubupanda": {
+    "image": "emotes/img/sleep-bubupanda.gif"
+  },
+  "smile": {
+    "image": "emotes/img/smile.png"
+  },
+  "soldjacat": {
+    "image": "emotes/img/soldjacat.png"
+  },
+  "spongebob_pepe": {
+    "image": "emotes/img/spongebob_pepe.png"
+  },
+  "stare": {
+    "image": "emotes/img/stare.png"
+  },
+  "starspink3": {
+    "image": "emotes/img/starspink3.gif"
+  },
+  "starspurink4": {
+    "image": "emotes/img/starspurink4.gif"
+  },
+  "starspurink5": {
+    "image": "emotes/img/starspurink5.gif"
+  },
+  "sung-jin-stunned": {
+    "image": "emotes/img/sung-jin-stunned.png"
+  },
+  "think": {
+    "image": "emotes/img/think.png"
+  },
+  "thumbs-up-meme": {
+    "image": "emotes/img/thumbs-up-meme.png"
+  },
+  "uncanny-cat": {
+    "image": "emotes/img/uncanny-cat.png"
+  },
+  "unimpressed": {
+    "image": "emotes/img/unimpressed.png"
+  },
+  "unyel": {
+    "image": "emotes/img/unyel.gif"
+  },
+  "usagi-love": {
+    "image": "emotes/img/usagi-love.png"
+  },
+  "vcping": {
+    "image": "emotes/img/vcping.png"
   },
   "verified-black": {
     "image": "emotes/img/verified-black.gif"
@@ -35,7 +848,28 @@
   "verified-yellow": {
     "image": "emotes/img/verified-yellow.gif"
   },
+  "verycat": {
+    "image": "emotes/img/verycat.gif"
+  },
+  "vibecat": {
+    "image": "emotes/img/vibecat.gif"
+  },
+  "welcometeam": {
+    "image": "emotes/img/welcometeam.png"
+  },
+  "wicked-pikachu-hoodie-pepe": {
+    "image": "emotes/img/wicked-pikachu-hoodie-pepe.png"
+  },
+  "wtfpepe": {
+    "image": "emotes/img/wtfpepe.png"
+  },
   "yellow-verification": {
     "image": "emotes/img/yellow-verification.gif"
+  },
+  "zerotwo-hypedfast": {
+    "image": "emotes/img/zerotwo-hypedfast.gif"
+  },
+  "zorolike": {
+    "image": "emotes/img/zorolike.png"
   }
 }
