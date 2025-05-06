@@ -1,9 +1,41 @@
 {
-    "pepe_smile": {
-      "image": "emotes/img/pepe_smile.png"
-    },
-    "pepe_dance": {
-      "image": "emotes/pepe_sad.gif"
-    }
+  "brown-checkmark": {
+    "image": "emotes/img/brown-checkmark.gif"
+  },
+  "verified-black": {
+    "image": "emotes/img/verified-black.gif"
+  },
+  "verified-blue": {
+    "image": "emotes/img/verified-blue.gif"
+  },
+  "verified-green": {
+    "image": "emotes/img/verified-green.gif"
+  },
+  "verified-light-pink": {
+    "image": "emotes/img/verified-light-pink.gif"
+  },
+  "verified-orange": {
+    "image": "emotes/img/verified-orange.gif"
+  },
+  "verified-pastel-blue": {
+    "image": "emotes/img/verified-pastel-blue.gif"
+  },
+  "verified-pink": {
+    "image": "emotes/img/verified-pink.gif"
+  },
+  "verified-purple": {
+    "image": "emotes/img/verified-purple.gif"
+  },
+  "verified-red": {
+    "image": "emotes/img/verified-red.gif"
+  },
+  "verified-white": {
+    "image": "emotes/img/verified-white.gif"
+  },
+  "verified-yellow": {
+    "image": "emotes/img/verified-yellow.gif"
+  },
+  "yellow-verification": {
+    "image": "emotes/img/yellow-verification.gif"
+  }
 }
-  
