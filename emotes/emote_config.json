@@ -1,4 +1,7 @@
 {
+  "1": {
+    "image": "emotes/img/1.png"
+  },
   "2": {
     "image": "emotes/img/2.png"
   },
@@ -61,6 +64,9 @@
   },
   "+1": {
     "image": "emotes/img/+1.png"
+  },
+  "18+": {
+    "image": "emotes/img/18+.png"
   },
   "60segundos": {
     "image": "emotes/img/60segundos.gif"
