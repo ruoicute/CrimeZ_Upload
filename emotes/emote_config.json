@@ -1166,6 +1166,12 @@
   "kekyou": {
     "image": "emotes/img/kekyou.png"
   },
+  "khan": {
+    "image": "emotes/img/khan.png"
+  },
+  "khan2": {
+    "image": "emotes/img/khan2.png"
+  },
   "kid": {
     "image": "emotes/img/kid.gif"
   },
