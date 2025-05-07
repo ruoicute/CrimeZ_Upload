@@ -62,91 +62,91 @@
   "123": {
     "image": "emotes/img/123.png"
   },
-  "+1": {
+  "-1": {
     "image": "emotes/img/+1.png"
   },
-  "18+": {
+  "18-": {
     "image": "emotes/img/18+.png"
   },
   "60segundos": {
     "image": "emotes/img/60segundos.gif"
   },
-  "alphabet_a": {
+  "alphabet-a": {
     "image": "emotes/img/Alphabet_A.gif"
   },
-  "alphabet_b": {
+  "alphabet-b": {
     "image": "emotes/img/Alphabet_B.gif"
   },
-  "alphabet_c": {
+  "alphabet-c": {
     "image": "emotes/img/Alphabet_C.gif"
   },
-  "alphabet_d": {
+  "alphabet-d": {
     "image": "emotes/img/Alphabet_D.gif"
   },
-  "alphabet_e": {
+  "alphabet-e": {
     "image": "emotes/img/Alphabet_E.gif"
   },
-  "alphabet_f": {
+  "alphabet-f": {
     "image": "emotes/img/Alphabet_F.gif"
   },
-  "alphabet_g": {
+  "alphabet-g": {
     "image": "emotes/img/Alphabet_G.gif"
   },
-  "alphabet_h": {
+  "alphabet-h": {
     "image": "emotes/img/Alphabet_H.gif"
   },
-  "alphabet_i": {
+  "alphabet-i": {
     "image": "emotes/img/Alphabet_I.gif"
   },
-  "alphabet_j": {
+  "alphabet-j": {
     "image": "emotes/img/Alphabet_J.gif"
   },
-  "alphabet_k": {
+  "alphabet-k": {
     "image": "emotes/img/Alphabet_K.gif"
   },
-  "alphabet_l": {
+  "alphabet-l": {
     "image": "emotes/img/Alphabet_L.gif"
   },
-  "alphabet_m": {
+  "alphabet-m": {
     "image": "emotes/img/Alphabet_M.gif"
   },
-  "alphabet_n": {
+  "alphabet-n": {
     "image": "emotes/img/Alphabet_N.gif"
   },
-  "alphabet_o": {
+  "alphabet-o": {
     "image": "emotes/img/Alphabet_O.gif"
   },
-  "alphabet_p": {
+  "alphabet-p": {
     "image": "emotes/img/Alphabet_P.gif"
   },
-  "alphabet_q": {
+  "alphabet-q": {
     "image": "emotes/img/Alphabet_Q.gif"
   },
-  "alphabet_r": {
+  "alphabet-r": {
     "image": "emotes/img/Alphabet_R.gif"
   },
-  "alphabet_s": {
+  "alphabet-s": {
     "image": "emotes/img/Alphabet_S.gif"
   },
-  "alphabet_t": {
+  "alphabet-t": {
     "image": "emotes/img/Alphabet_T.gif"
   },
-  "alphabet_u": {
+  "alphabet-u": {
     "image": "emotes/img/Alphabet_U.gif"
   },
-  "alphabet_v": {
+  "alphabet-v": {
     "image": "emotes/img/Alphabet_V.gif"
   },
-  "alphabet_w": {
+  "alphabet-w": {
     "image": "emotes/img/Alphabet_W.gif"
   },
-  "alphabet_x": {
+  "alphabet-x": {
     "image": "emotes/img/Alphabet_X.gif"
   },
-  "alphabet_y": {
+  "alphabet-y": {
     "image": "emotes/img/Alphabet_Y.gif"
   },
-  "alphabet_z": {
+  "alphabet-z": {
     "image": "emotes/img/Alphabet_Z.gif"
   },
   "angry": {
@@ -164,13 +164,13 @@
   "chika-lenny": {
     "image": "emotes/img/Chika-lenny.gif"
   },
-  "cool doge": {
+  "cool-doge": {
     "image": "emotes/img/Cool Doge.gif"
   },
   "doou": {
     "image": "emotes/img/DOOU.gif"
   },
-  "doggo dance": {
+  "doggo-dance": {
     "image": "emotes/img/Doggo dance.gif"
   },
   "gatoxd": {
@@ -182,7 +182,7 @@
   "gunpoint": {
     "image": "emotes/img/Gunpoint.png"
   },
-  "haraketli iğne": {
+  "haraketli-i-ne": {
     "image": "emotes/img/Haraketli iğne.gif"
   },
   "hehe-png": {
@@ -203,7 +203,7 @@
   "memes": {
     "image": "emotes/img/Memes.gif"
   },
-  "minecraft rainbow sheep": {
+  "minecraft-rainbow-sheep": {
     "image": "emotes/img/Minecraft Rainbow Sheep.gif"
   },
   "neysi": {
@@ -212,7 +212,7 @@
   "nezukorow": {
     "image": "emotes/img/NezukoRow.gif"
   },
-  "nou_rainbow": {
+  "nou-rainbow": {
     "image": "emotes/img/NoU_Rainbow.gif"
   },
   "pepeclap": {
@@ -230,10 +230,10 @@
   "pepepoogersfast": {
     "image": "emotes/img/PepePOOGERSFAST.gif"
   },
-  "pepe_hype": {
+  "pepe-hype": {
     "image": "emotes/img/Pepe_Hype.gif"
   },
-  "pepe_shoot": {
+  "pepe-shoot": {
     "image": "emotes/img/Pepe_Shoot.gif"
   },
   "poggersrow": {
@@ -248,7 +248,7 @@
   "shinybrownpuffle": {
     "image": "emotes/img/ShinyBrownPuffle.png"
   },
-  "this is a emoji heart _3": {
+  "this-is-a-emoji-heart--3": {
     "image": "emotes/img/This is a emoji Heart _3.gif"
   },
   "troll": {
@@ -266,13 +266,13 @@
   "wow": {
     "image": "emotes/img/Wow.gif"
   },
-  "_carregando_3_": {
+  "-carregando-3-": {
     "image": "emotes/img/_carregando_3_.gif"
   },
-  "_dance_": {
+  "-dance-": {
     "image": "emotes/img/_dance_.gif"
   },
-  "_f_": {
+  "-f-": {
     "image": "emotes/img/_f_.png"
   },
   "aaa": {
@@ -836,7 +836,7 @@
   "drakeban": {
     "image": "emotes/img/drakeban.png"
   },
-  "duck waddle": {
+  "duck-waddle": {
     "image": "emotes/img/duck waddle.gif"
   },
   "duckflex": {
@@ -860,7 +860,7 @@
   "emoji-png": {
     "image": "emotes/img/emoji.png"
   },
-  "emoji_anime": {
+  "emoji-anime": {
     "image": "emotes/img/emoji_anime.gif"
   },
   "emojis": {
@@ -1457,7 +1457,7 @@
   "likebutton": {
     "image": "emotes/img/likebutton.gif"
   },
-  "lil_swag": {
+  "lil-swag": {
     "image": "emotes/img/lil_swag.gif"
   },
   "lilpepe": {
@@ -1817,7 +1817,7 @@
   "pensiveanimated": {
     "image": "emotes/img/pensiveanimated.gif"
   },
-  "pepe toilet": {
+  "pepe-toilet": {
     "image": "emotes/img/pepe toilet.gif"
   },
   "pepe-ahaa": {
@@ -1883,7 +1883,7 @@
   "pepeok": {
     "image": "emotes/img/pepeOK.png"
   },
-  "pepe_shy": {
+  "pepe-shy": {
     "image": "emotes/img/pepe_shy.gif"
   },
   "pepeanger": {
@@ -2318,7 +2318,7 @@
   "spinthink": {
     "image": "emotes/img/spinthink.gif"
   },
-  "spongebob_pepe": {
+  "spongebob-pepe": {
     "image": "emotes/img/spongebob_pepe.png"
   },
   "spongebobidc": {
@@ -2363,7 +2363,7 @@
   "sung-jin-stunned": {
     "image": "emotes/img/sung-jin-stunned.png"
   },
-  "surprised_pikachu": {
+  "surprised-pikachu": {
     "image": "emotes/img/surprised_pikachu.png"
   },
   "sus": {
@@ -2431,6 +2431,9 @@
   },
   "triggeredpepe": {
     "image": "emotes/img/triggeredpepe.gif"
+  },
+  "tritrung": {
+    "image": "emotes/img/tritrung.png"
   },
   "trollface-gif": {
     "image": "emotes/img/trollface.gif"
