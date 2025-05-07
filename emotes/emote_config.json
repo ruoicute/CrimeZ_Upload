@@ -192,7 +192,7 @@
     "image": "emotes/img/Haraketli iğne.gif"
   },
   "hehe": {
-    "image": "emotes/img/hehe.gif"
+    "image": "emotes/img/Hehe.png"
   },
   "heheboy": {
     "image": "emotes/img/Heheboy.png"
@@ -297,6 +297,9 @@
     "image": "emotes/img/amogus.png"
   },
   "amongus": {
+    "image": "emotes/img/amongus.gif"
+  },
+  "amongus_png": {
     "image": "emotes/img/amongus.png"
   },
   "amonguspoint": {
@@ -333,6 +336,9 @@
     "image": "emotes/img/anime-shut-up.png"
   },
   "anime": {
+    "image": "emotes/img/anime.gif"
+  },
+  "anime_png": {
     "image": "emotes/img/anime.png"
   },
   "animeahhhhh": {
@@ -381,6 +387,9 @@
     "image": "emotes/img/awoo.png"
   },
   "ban": {
+    "image": "emotes/img/ban.gif"
+  },
+  "ban_png": {
     "image": "emotes/img/ban.png"
   },
   "bankai": {
@@ -456,6 +465,9 @@
     "image": "emotes/img/brown-checkmark.gif"
   },
   "bruh": {
+    "image": "emotes/img/bruh.gif"
+  },
+  "bruh_png": {
     "image": "emotes/img/bruh.png"
   },
   "bubpanda-toilet": {
@@ -579,6 +591,9 @@
     "image": "emotes/img/catstand.png"
   },
   "catstare": {
+    "image": "emotes/img/catstare.gif"
+  },
+  "catstare_png": {
     "image": "emotes/img/catstare.png"
   },
   "cattoblush": {
@@ -603,6 +618,9 @@
     "image": "emotes/img/chatrevive.png"
   },
   "checkmark": {
+    "image": "emotes/img/checkmark.gif"
+  },
+  "checkmark_png": {
     "image": "emotes/img/checkmark.png"
   },
   "checkroxo": {
@@ -711,6 +729,9 @@
     "image": "emotes/img/crown.png"
   },
   "cry": {
+    "image": "emotes/img/cry.gif"
+  },
+  "cry_jpg": {
     "image": "emotes/img/cry.jpg"
   },
   "crycat": {
@@ -744,6 +765,9 @@
     "image": "emotes/img/cum.png"
   },
   "cute": {
+    "image": "emotes/img/cute.gif"
+  },
+  "cute_png": {
     "image": "emotes/img/cute.png"
   },
   "cutecat": {
@@ -834,6 +858,9 @@
     "image": "emotes/img/elpepehacker.gif"
   },
   "emoji": {
+    "image": "emotes/img/emoji.gif"
+  },
+  "emoji_png": {
     "image": "emotes/img/emoji.png"
   },
   "emoji_anime": {
@@ -939,6 +966,9 @@
     "image": "emotes/img/gawrgurawavebackgroundless.png"
   },
   "gay": {
+    "image": "emotes/img/gay.gif"
+  },
+  "gay_jpg": {
     "image": "emotes/img/gay.jpg"
   },
   "gays": {
@@ -1011,6 +1041,9 @@
     "image": "emotes/img/guhgif.gif"
   },
   "gun": {
+    "image": "emotes/img/gun.gif"
+  },
+  "gun_png": {
     "image": "emotes/img/gun.png"
   },
   "hakcan": {
@@ -1041,6 +1074,9 @@
     "image": "emotes/img/heartboost.png"
   },
   "heartcat": {
+    "image": "emotes/img/heartcat.gif"
+  },
+  "heartcat_png": {
     "image": "emotes/img/heartcat.png"
   },
   "hearteye": {
@@ -1048,6 +1084,9 @@
   },
   "heartgif": {
     "image": "emotes/img/heartgif.gif"
+  },
+  "hehe_gif": {
+    "image": "emotes/img/hehe.gif"
   },
   "hehepepe": {
     "image": "emotes/img/hehepepe.gif"
@@ -1065,6 +1104,9 @@
     "image": "emotes/img/hello-kitty-reading.png"
   },
   "hello": {
+    "image": "emotes/img/hello.gif"
+  },
+  "hello_png": {
     "image": "emotes/img/hello.png"
   },
   "hellokittydance": {
@@ -1116,6 +1158,9 @@
     "image": "emotes/img/huh.png"
   },
   "huhcat": {
+    "image": "emotes/img/huhcat.gif"
+  },
+  "huhcat_png": {
     "image": "emotes/img/huhcat.png"
   },
   "hyperpinged": {
@@ -1431,6 +1476,9 @@
     "image": "emotes/img/loading.gif"
   },
   "lol": {
+    "image": "emotes/img/lol.gif"
+  },
+  "lol_png": {
     "image": "emotes/img/lol.png"
   },
   "lovelybear": {
@@ -1479,6 +1527,9 @@
     "image": "emotes/img/meguwat.png"
   },
   "meme": {
+    "image": "emotes/img/meme.gif"
+  },
+  "meme_png": {
     "image": "emotes/img/meme.png"
   },
   "meow": {
@@ -1497,6 +1548,9 @@
     "image": "emotes/img/mike.png"
   },
   "minecraft": {
+    "image": "emotes/img/minecraft.gif"
+  },
+  "minecraft_png": {
     "image": "emotes/img/minecraft.png"
   },
   "minecraftgolem": {
@@ -1558,6 +1612,9 @@
   },
   "naruto-shy": {
     "image": "emotes/img/naruto-shy.png"
+  },
+  "neepo": {
+    "image": "emotes/img/neepo.png"
   },
   "nepokay": {
     "image": "emotes/img/nepokay.png"
@@ -1650,6 +1707,9 @@
     "image": "emotes/img/paimonshock.png"
   },
   "pain": {
+    "image": "emotes/img/pain.gif"
+  },
+  "pain_png": {
     "image": "emotes/img/pain.png"
   },
   "panda": {
@@ -1854,6 +1914,9 @@
     "image": "emotes/img/pepecowboy.gif"
   },
   "pepecringe": {
+    "image": "emotes/img/pepecringe.jpg"
+  },
+  "pepecringe_png": {
     "image": "emotes/img/pepecringe.png"
   },
   "pepecross": {
@@ -1875,6 +1938,9 @@
     "image": "emotes/img/pepedrama.png"
   },
   "pepeduck": {
+    "image": "emotes/img/pepeduck.gif"
+  },
+  "pepeduck_png": {
     "image": "emotes/img/pepeduck.png"
   },
   "pepeeveryone": {
@@ -1986,6 +2052,9 @@
     "image": "emotes/img/pikachu-stare.gif"
   },
   "pikachu": {
+    "image": "emotes/img/pikachu.gif"
+  },
+  "pikachu_png": {
     "image": "emotes/img/pikachu.png"
   },
   "pikachufacepalm": {
@@ -2088,6 +2157,9 @@
     "image": "emotes/img/remsmug.png"
   },
   "ricardomilos": {
+    "image": "emotes/img/ricardomilos.gif"
+  },
+  "ricardomilos_jpg": {
     "image": "emotes/img/ricardomilos.jpg"
   },
   "rich": {
@@ -2190,6 +2262,9 @@
     "image": "emotes/img/shootdoggun.gif"
   },
   "shy": {
+    "image": "emotes/img/shy.gif"
+  },
+  "shy_png": {
     "image": "emotes/img/shy.png"
   },
   "sideeye": {
@@ -2205,6 +2280,9 @@
     "image": "emotes/img/sinslayer.png"
   },
   "sip": {
+    "image": "emotes/img/sip.gif"
+  },
+  "sip_png": {
     "image": "emotes/img/sip.png"
   },
   "sla": {
@@ -2358,12 +2436,18 @@
     "image": "emotes/img/triggeredpepe.gif"
   },
   "trollface": {
+    "image": "emotes/img/trollface.gif"
+  },
+  "trollface_webp": {
     "image": "emotes/img/trollface.webp"
   },
   "tsenslewd": {
     "image": "emotes/img/tsenslewd.png"
   },
   "twitch": {
+    "image": "emotes/img/twitch.gif"
+  },
+  "twitch_png": {
     "image": "emotes/img/twitch.png"
   },
   "umarucool": {
@@ -2388,12 +2472,18 @@
     "image": "emotes/img/uwhat.jpg"
   },
   "uwu": {
+    "image": "emotes/img/uwu.gif"
+  },
+  "uwu_png": {
     "image": "emotes/img/uwu.png"
   },
   "uzi": {
     "image": "emotes/img/uzi.gif"
   },
   "valorant": {
+    "image": "emotes/img/valorant.gif"
+  },
+  "valorant_png": {
     "image": "emotes/img/valorant.png"
   },
   "vcping": {
