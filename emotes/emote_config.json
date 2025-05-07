@@ -2348,6 +2348,9 @@
   "top": {
     "image": "emotes/img/top.gif"
   },
+  "tosouthside": {
+    "image": "emotes/img/tosouthside.jpg"
+  },
   "trigered": {
     "image": "emotes/img/trigered.jpg"
   },
