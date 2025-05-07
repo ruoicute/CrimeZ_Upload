@@ -24,7 +24,7 @@ function generateEmoteConfig() {
     
     if (validExtensions.includes(extension)) {
       const fileName = path.basename(file, extension);
-      const baseName = fileName.toLowerCase().trim().replace(/[^a-z0-9]/g, '-');
+      const baseName = fileName.toLowerCase().trim().replace(/[^a-z0-9_+-]/g, '-');
       
       if (!groupedFiles[baseName]) {
         groupedFiles[baseName] = [];
