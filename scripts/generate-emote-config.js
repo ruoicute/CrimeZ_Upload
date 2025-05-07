@@ -16,26 +16,47 @@ function generateEmoteConfig() {
   // Read all files in the directory
   const files = fs.readdirSync(imageDir);
   
+  // First, group files by base name to detect duplicates
+  const groupedFiles = {};
+  
   files.forEach(file => {
     const extension = path.extname(file).toLowerCase();
     
-    // Check if it's an image file
     if (validExtensions.includes(extension)) {
       const fileName = path.basename(file, extension);
-      const relativePath = `emotes/img/${file}`;
+      const baseName = fileName.toLowerCase();
       
-      // Add to config
-      key = fileName.toLowerCase()
-
-      if (config[key]) 
-        key += `_${extension.replace('.', '')}`; 
+      if (!groupedFiles[baseName]) {
+        groupedFiles[baseName] = [];
+      }
       
-
-      config[key] = {
-        "image": relativePath
-      };
+      groupedFiles[baseName].push({
+        fullFile: file,
+        extension: extension
+      });
     }
   });
+  
+  // Now create the config using the grouping information
+  for (const [baseName, fileList] of Object.entries(groupedFiles)) {
+    // If there's only one file with this base name, use the base name as key
+    // Otherwise use "basename-extension" format for all files with this base name
+    if (fileList.length === 1) {
+      const file = fileList[0];
+      config[baseName] = {
+        "image": `emotes/img/${file.fullFile}`
+      };
+    } else {
+      fileList.forEach(file => {
+        const extensionSuffix = file.extension.replace('.', '');
+        const key = `${baseName}-${extensionSuffix}`;
+        
+        config[key] = {
+          "image": `emotes/img/${file.fullFile}`
+        };
+      });
+    }
+  }
   
   // Write config to file
   fs.writeFileSync(configFile, JSON.stringify(config, null, 2), 'utf8');
