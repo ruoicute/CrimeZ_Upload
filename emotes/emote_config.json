@@ -722,6 +722,12 @@
   "cries": {
     "image": "emotes/img/cries.gif"
   },
+  "crimez-animated": {
+    "image": "emotes/img/crimez-animated.gif"
+  },
+  "crimez": {
+    "image": "emotes/img/crimez.png"
+  },
   "crisiscat": {
     "image": "emotes/img/crisiscat.gif"
   },
