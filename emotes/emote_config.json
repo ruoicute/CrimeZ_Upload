@@ -2438,38 +2438,107 @@
   "to_angry": {
     "image": "emotes/img/to_angry.png"
   },
+  "to_anxious": {
+    "image": "emotes/img/to_anxious.png"
+  },
+  "to_bored": {
+    "image": "emotes/img/to_bored.png"
+  },
+  "to_cool": {
+    "image": "emotes/img/to_cool.png"
+  },
+  "to_cool2": {
+    "image": "emotes/img/to_cool2.png"
+  },
   "to_cry": {
     "image": "emotes/img/to_cry.png"
   },
   "to_eat": {
     "image": "emotes/img/to_eat.png"
   },
+  "to_frown": {
+    "image": "emotes/img/to_frown.png"
+  },
+  "to_game": {
+    "image": "emotes/img/to_game.png"
+  },
   "to_happy": {
     "image": "emotes/img/to_happy.png"
+  },
+  "to_happy2": {
+    "image": "emotes/img/to_happy2.png"
   },
   "to_interest": {
     "image": "emotes/img/to_interest.png"
   },
+  "to_joy": {
+    "image": "emotes/img/to_joy.png"
+  },
+  "to_like": {
+    "image": "emotes/img/to_like.png"
+  },
+  "to_live": {
+    "image": "emotes/img/to_live.png"
+  },
   "to_love": {
     "image": "emotes/img/to_love.png"
+  },
+  "to_no": {
+    "image": "emotes/img/to_no.png"
   },
   "to_ok": {
     "image": "emotes/img/to_ok.png"
   },
+  "to_pensive": {
+    "image": "emotes/img/to_pensive.png"
+  },
+  "to_read": {
+    "image": "emotes/img/to_read.png"
+  },
+  "to_sad": {
+    "image": "emotes/img/to_sad.png"
+  },
+  "to_shock": {
+    "image": "emotes/img/to_shock.png"
+  },
+  "to_shy": {
+    "image": "emotes/img/to_shy.png"
+  },
+  "to_silly": {
+    "image": "emotes/img/to_silly.png"
+  },
   "to_singing": {
     "image": "emotes/img/to_singing.png"
+  },
+  "to_sleep": {
+    "image": "emotes/img/to_sleep.png"
   },
   "to_smile": {
     "image": "emotes/img/to_smile.png"
   },
+  "to_smile2": {
+    "image": "emotes/img/to_smile2.png"
+  },
+  "to_smug": {
+    "image": "emotes/img/to_smug.png"
+  },
   "to_tongue_out": {
     "image": "emotes/img/to_tongue_out.png"
+  },
+  "to_troll": {
+    "image": "emotes/img/to_troll.png"
   },
   "to_victory": {
     "image": "emotes/img/to_victory.png"
   },
+  "to_wink": {
+    "image": "emotes/img/to_wink.png"
+  },
   "to_worry": {
     "image": "emotes/img/to_worry.png"
+  },
+  "to_wow": {
+    "image": "emotes/img/to_wow.png"
   },
   "tohrusmug": {
     "image": "emotes/img/tohrusmug.png"
