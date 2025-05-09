@@ -506,6 +506,9 @@
   "buttgala": {
     "image": "emotes/img/buttgala.gif"
   },
+  "ca": {
+    "image": "emotes/img/ca.png"
+  },
   "callofdutybypatr": {
     "image": "emotes/img/callofdutybypatr.png"
   },
@@ -718,6 +721,12 @@
   },
   "cries": {
     "image": "emotes/img/cries.gif"
+  },
+  "crimez-animated": {
+    "image": "emotes/img/crimez-animated.gif"
+  },
+  "crimez": {
+    "image": "emotes/img/crimez.png"
   },
   "crisiscat": {
     "image": "emotes/img/crisiscat.gif"
@@ -1213,6 +1222,15 @@
   },
   "khan2": {
     "image": "emotes/img/khan2.png"
+  },
+  "khan3": {
+    "image": "emotes/img/khan3.png"
+  },
+  "khan4": {
+    "image": "emotes/img/khan4.png"
+  },
+  "khan5": {
+    "image": "emotes/img/khan5.png"
   },
   "kid": {
     "image": "emotes/img/kid.gif"
