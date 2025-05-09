@@ -2435,6 +2435,42 @@
   "titit": {
     "image": "emotes/img/titit.png"
   },
+  "to_angry": {
+    "image": "emotes/img/to_angry.png"
+  },
+  "to_cry": {
+    "image": "emotes/img/to_cry.png"
+  },
+  "to_eat": {
+    "image": "emotes/img/to_eat.png"
+  },
+  "to_happy": {
+    "image": "emotes/img/to_happy.png"
+  },
+  "to_interest": {
+    "image": "emotes/img/to_interest.png"
+  },
+  "to_love": {
+    "image": "emotes/img/to_love.png"
+  },
+  "to_ok": {
+    "image": "emotes/img/to_ok.png"
+  },
+  "to_singing": {
+    "image": "emotes/img/to_singing.png"
+  },
+  "to_smile": {
+    "image": "emotes/img/to_smile.png"
+  },
+  "to_tongue_out": {
+    "image": "emotes/img/to_tongue_out.png"
+  },
+  "to_victory": {
+    "image": "emotes/img/to_victory.png"
+  },
+  "to_worry": {
+    "image": "emotes/img/to_worry.png"
+  },
   "tohrusmug": {
     "image": "emotes/img/tohrusmug.png"
   },
