@@ -2438,6 +2438,9 @@
   "to_angry": {
     "image": "emotes/img/to_angry.png"
   },
+  "to_angry2": {
+    "image": "emotes/img/to_angry2.png"
+  },
   "to_anxious": {
     "image": "emotes/img/to_anxious.png"
   },
@@ -2453,11 +2456,20 @@
   "to_cry": {
     "image": "emotes/img/to_cry.png"
   },
+  "to_cry2": {
+    "image": "emotes/img/to_cry2.png"
+  },
+  "to_disappointed": {
+    "image": "emotes/img/to_disappointed.png"
+  },
   "to_eat": {
     "image": "emotes/img/to_eat.png"
   },
   "to_frown": {
     "image": "emotes/img/to_frown.png"
+  },
+  "to_fuck": {
+    "image": "emotes/img/to_fuck.png"
   },
   "to_game": {
     "image": "emotes/img/to_game.png"
@@ -2468,11 +2480,20 @@
   "to_happy2": {
     "image": "emotes/img/to_happy2.png"
   },
+  "to_hi": {
+    "image": "emotes/img/to_hi.png"
+  },
+  "to_hmm": {
+    "image": "emotes/img/to_hmm.png"
+  },
   "to_interest": {
     "image": "emotes/img/to_interest.png"
   },
   "to_joy": {
     "image": "emotes/img/to_joy.png"
+  },
+  "to_lag": {
+    "image": "emotes/img/to_lag.png"
   },
   "to_like": {
     "image": "emotes/img/to_like.png"
@@ -2498,8 +2519,17 @@
   "to_sad": {
     "image": "emotes/img/to_sad.png"
   },
+  "to_sad2": {
+    "image": "emotes/img/to_sad2.png"
+  },
   "to_shock": {
     "image": "emotes/img/to_shock.png"
+  },
+  "to_shocked": {
+    "image": "emotes/img/to_shocked.png"
+  },
+  "to_shot": {
+    "image": "emotes/img/to_shot.png"
   },
   "to_shy": {
     "image": "emotes/img/to_shy.png"
@@ -2513,11 +2543,17 @@
   "to_sleep": {
     "image": "emotes/img/to_sleep.png"
   },
+  "to_sleep2": {
+    "image": "emotes/img/to_sleep2.png"
+  },
   "to_smile": {
     "image": "emotes/img/to_smile.png"
   },
   "to_smile2": {
     "image": "emotes/img/to_smile2.png"
+  },
+  "to_smile3": {
+    "image": "emotes/img/to_smile3.png"
   },
   "to_smug": {
     "image": "emotes/img/to_smug.png"
