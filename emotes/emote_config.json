@@ -1181,6 +1181,9 @@
   "ivarroll": {
     "image": "emotes/img/ivarroll.gif"
   },
+  "jack-animated": {
+    "image": "emotes/img/jack-animated.gif"
+  },
   "jack": {
     "image": "emotes/img/jack.png"
   },
